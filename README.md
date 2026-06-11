@@ -3,7 +3,7 @@
 Chào bạn! Đây là kho lưu trữ (repository) tổng hợp các dự án Dashboard phân tích dữ liệu được xây dựng bằng **Power BI**. Dự án tập trung vào việc chuyển hóa dữ liệu thô thành các báo cáo trực quan, tối ưu hóa trải nghiệm người dùng và trích xuất các insight giá trị hỗ trợ ra quyết định.
 
 
-## 📊 Chi Tiết 3 Hệ Thống Dashboard
+## 📊 Chi Tiết các Dashboard (updating...)
 
 ### 1. Dashboard Dữ Liệu Kinh Tế Xã Hội Việt Nam (Socio-Economic Dashboard)
 * **Nội dung:** Tổng quan bức tranh kinh tế - xã hội của Việt Nam sau khi thực hiện điều chỉnh, sáp nhập địa giới hành chính.
